@@ -30,7 +30,7 @@ My research is at the intersection of **Computer Vision** and **Robotics**, with
 *   **Zhenyu Xu**, Z. Ren, Q. Zhang, et al. "Semantic-focused Patch Tokenizer with Multi-branch Mixer for Visual Place Recognition", ***IEEE International Conference on Robotics and Automation (ICRA)***, 2024. (CCF-B)
 *   **Zhenyu Xu**, et al. "VGG-CAE: Unsupervised Visual Place Recognition using VGG16-Based Convolutional Autoencoder", *PRCV*, 2021. (CCF-C)
 
-*(Full list available on [Google Scholar](https://scholar.google.com/citations?user=CAWz1iwAAAAJ&hl=zh-CN))*
+*([Google Scholar](https://scholar.google.com/citations?user=CAWz1iwAAAAJ&hl=zh-CN))*
 
 ### 💡 Patents
 *   **Zhenyu Xu**, et al. "Image Recognition Method and Apparatus, and Electronic Device", *Chinese Invention Patent*, CN202111205293.3.
