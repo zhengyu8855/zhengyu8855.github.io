@@ -15,7 +15,6 @@ My research is at the intersection of **Computer Vision** and **Robotics**, with
 
 ## 🔍 Research Interests
 *   **Visual Place Recognition (VPR):** Lightweight feature extraction and distilled representation for large-scale scene recognition.
-*   **Robust Perception:** Addressing viewpoint, seasonal, and weather changes using frequency domain analysis and attention mechanisms.
 *   **Generative Features for VPR:** (Ongoing) Exploring Diffusion-based descriptors (DIFT) for localization tasks.
 
 
