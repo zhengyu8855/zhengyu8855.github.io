@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Kuzhengyu page"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## 😀 About me
 I am a PhD student at the **University of Macau**, supervised by Prof. Chi-Man Pun and Prof. Qieshi Zhang. Prior to this, I earned my Master's degree from **Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences**. 
 
