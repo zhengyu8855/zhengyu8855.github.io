@@ -13,7 +13,7 @@ title                    : "ZhenYu Xu"
 title_separator          : "-"
 name                     : "许震宇"
 description              : "PhD Student at University of Macau"
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://zhengyu8855.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kuzhengyu.github.io"
