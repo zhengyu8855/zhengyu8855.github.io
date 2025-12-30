@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Xu ZhenYu "
+title                    : "ZhenYu Xu"
 title_separator          : "-"
 name                     : "许震宇"
 description              : "PhD Student at University of Macau"
@@ -24,7 +24,7 @@ repository               : "kuzhengyu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "许 震宇 (Xu ZhenYu)"
+  name             : "许震宇 (ZhenYu Xu)"
   pronouns         : # example: "she/her"  
   bio              : "Interested in Visual Place Recognition"
   location         : "China"
