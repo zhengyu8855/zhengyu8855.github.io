@@ -2,41 +2,27 @@
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-## 😀 About me
-I am a PhD student at the **University of Macau**, supervised by Prof. Chi-Man Pun and Prof. Qieshi Zhang. Prior to this, I earned my Master's degree from **Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences**. 
+## About Me
 
-My research is at the intersection of **Computer Vision** and **Robotics**, with a core focus on **Visual Place Recognition (VPR)**. Now, I am particularly interested in developing robust, lightweight methods for autonomous navigation.
+I am a PhD student in Computer Science at the **University of Macau**, advised by [Prof. Chi-Man Pun](https://scholar.google.com/citations?user=JTkP_EAAAAAJ&hl=zh-CN) and [Prof. Qieshi Zhang](https://scholar.google.com/citations?user=r59MMbUAAAAJ&hl=zh-CN).
 
+My research lies at the intersection of **computer vision** and **autonomous driving**, with a focus on visual place recognition (VPR). I am interested in representation learning for visual applications, particularly in extracting effective priors from foundation models for specific visual tasks.
 
-## 🔍 Research Interests
-*   **Visual Place Recognition (VPR):** Lightweight feature extraction and distilled representation for large-scale scene recognition.
-*   **Generative Features for VPR:** (Ongoing) Exploring Diffusion-based descriptors (DIFT) for localization tasks.
+## Education
 
+- **PhD in Computer Science**, University of Macau, 2024 - Present
+- **MSc in Computer Technology**, University of Chinese Academy of Sciences and Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, 2021 - 2024
+- **BTech in Computer Science and Technology**, Dongguan University of Technology, 2016 - 2020
 
-## 🎓 Education
-*   **Ph.D. in Computer Science**, University of Macau, 2024 – Present
-*   **M.Sc. in Computer Technology**, University of Chinese Academy of Sciences (UCAS) & SIAT, 2021 – 2024
-*   **B.Tech. in Computer Science**, Dongguan University of Technology (DGUT), 2016 – 2020
+## Selected Publications
 
+- **Zhenyu Xu**, Yudian Zheng, Qieshi Zhang, and Chi-Man Pun. "GIFT: A Generative Imagined Fine-Tuning Framework for Visual Place Recognition." *ICASSP*, 2026.
+- **Zhenyu Xu**, Ziliang Ren, Qieshi Zhang, Jie Lou, Dacheng Tao, and Jun Cheng. "Semantic-focused Patch Tokenizer with Multi-branch Mixer for Visual Place Recognition." *ICRA*, 2024.
+- **Zhenyu Xu**, Qieshi Zhang, Fusheng Hao, Ziliang Ren, Yuhang Kang, and Jun Cheng. "VGG-CAE: Unsupervised Visual Place Recognition using VGG16-Based Convolutional Autoencoder." *PRCV*, 2021.
 
-## 📖 Publications
-*   **Zhenyu Xu**, Q. Zhang, et al. "Enhancing Visual Place Recognition using Discrete Cosine Transform and Difference-based Descriptors", ***IEEE Transactions on Circuits and Systems II (TCAS-II)***, 2024. (JCR-Q2, Co-first Author)
-*   Q. Zhang, **Zhenyu Xu**, et al. "Distilled Representation Using Patch-based Local-to-global Similarity Strategy for Visual Place Recognition", ***Knowledge-Based Systems (KBS)***, 2023. (JCR-Q1, Co-first Author)
-*   **Zhenyu Xu**, Z. Ren, Q. Zhang, et al. "Semantic-focused Patch Tokenizer with Multi-branch Mixer for Visual Place Recognition", ***IEEE International Conference on Robotics and Automation (ICRA)***, 2024. (CCF-B)
-*   **Zhenyu Xu**, et al. "VGG-CAE: Unsupervised Visual Place Recognition using VGG16-Based Convolutional Autoencoder", *PRCV*, 2021. (CCF-C)
-
-*([Google Scholar](https://scholar.google.com/citations?user=CAWz1iwAAAAJ&hl=zh-CN))*
-
-### 💡 Patents
-*   **Zhenyu Xu**, et al. "Image Recognition Method and Apparatus, and Electronic Device", *Chinese Invention Patent*, CN202111205293.3.
-*   Q. Zhang, **Zhenyu Xu**, et al. "Image Matching Method and Apparatus, and Electronic Device", *Chinese Invention Patent*, CN202211484161.3.
-
-
-<p align="center">
-  <small>Last updated: Dec 2025</small>
-</p>
+For the full publication list, see [Publications](/publications/) or [Google Scholar](https://scholar.google.com/citations?user=CAWz1iwAAAAJ&hl=zh-CN).
