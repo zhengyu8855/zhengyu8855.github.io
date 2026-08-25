@@ -24,5 +24,3 @@ My research lies at the intersection of **computer vision** and **autonomous dri
 - **Zhenyu Xu**, Yudian Zheng, Qieshi Zhang, and Chi-Man Pun. "GIFT: A Generative Imagined Fine-Tuning Framework for Visual Place Recognition." *ICASSP*, 2026.
 - **Zhenyu Xu**, Ziliang Ren, Qieshi Zhang, Jie Lou, Dacheng Tao, and Jun Cheng. "Semantic-focused Patch Tokenizer with Multi-branch Mixer for Visual Place Recognition." *ICRA*, 2024.
 - **Zhenyu Xu**, Qieshi Zhang, Fusheng Hao, Ziliang Ren, Yuhang Kang, and Jun Cheng. "VGG-CAE: Unsupervised Visual Place Recognition using VGG16-Based Convolutional Autoencoder." *PRCV*, 2021.
-
-For the full publication list, see [Publications](/publications/) or [Google Scholar](https://scholar.google.com/citations?user=CAWz1iwAAAAJ&hl=zh-CN).
